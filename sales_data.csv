@@ -1,0 +1,13 @@
+order_id,order_date,customer_id,product_name,category,region,quantity,price,revenue
+1001,2023-01-05,C101,Laptop,Electronics,North,1,60000,60000
+1002,2023-01-12,C102,Mobile Phone,Electronics,South,2,25000,50000
+1003,2023-02-03,C103,Office Chair,Furniture,West,3,7000,21000
+1004,2023-02-15,C104,Headphones,Electronics,East,4,3000,12000
+1005,2023-03-01,C105,Desk,Furniture,North,2,15000,30000
+1006,2023-03-18,C106,Monitor,Electronics,West,1,20000,20000
+1007,2023-04-05,C107,Printer,Electronics,South,1,18000,18000
+1008,2023-04-22,C108,Tablet,Electronics,East,2,22000,44000
+1009,2023-05-10,C109,Bookshelf,Furniture,North,1,12000,12000
+1010,2023-05-25,C110,Keyboard,Electronics,West,5,2000,10000
+1011,2023-06-02,C111,Mouse,Electronics,South,6,1500,9000
+1012,2023-06-18,C112,Smart Watch,Electronics,East,2,12000,24000
